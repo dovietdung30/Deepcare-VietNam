@@ -17,19 +17,19 @@
   padding-block: 172px;
 }
 
-/*#partners li img {*/
-/*  width: 170px;*/
-/*  height: 41px;*/
-/*}*/
-/*#partners ul {*/
-/*  display: flex;*/
-/*  justify-content: center;*/
-/*  align-items: center;*/
-/*  gap: 108px;*/
-/*  flex-wrap: wrap;*/
+#partners li img {
+  width: 170px;
+  height: 41px;
+}
+#partners ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 108px;
+  flex-wrap: wrap;
 
-/*  position: relative;*/
-/*}*/
+  position: relative;
+}
 #partners ul li {
   list-style: none;
   text-align: center;
